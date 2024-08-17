@@ -10,5 +10,5 @@ architectures by modifying the `pkgsCross` path to the cross compiling gcc.
 
 # Simple example
 In a shell run `nix develop github:knkp/buildroot_flake --no-write-lock-file`
-Then navigate to where buildroot has been extrated/cloned.
+Then navigate to buildroot on your system.
 You should now be able to run `make menuconfig` and `make` to build the image.
