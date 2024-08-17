@@ -18,6 +18,7 @@
               file
               gnumake
               ncurses.dev
+              unzip
               pkg-config
               wget
               pkgsCross.aarch64-multiplatform.gccStdenv.cc
